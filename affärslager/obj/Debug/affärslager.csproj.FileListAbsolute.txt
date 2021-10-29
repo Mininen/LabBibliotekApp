@@ -1,0 +1,95 @@
+c:\users\s184176\documents\visual studio 2015\Projects\Presentationslager\affärslager\bin\Debug\affärslager.dll
+c:\users\s184176\documents\visual studio 2015\Projects\Presentationslager\affärslager\bin\Debug\affärslager.pdb
+c:\users\s184176\documents\visual studio 2015\Projects\Presentationslager\affärslager\obj\Debug\affärslager.csprojResolveAssemblyReference.cache
+c:\users\s184176\documents\visual studio 2015\Projects\Presentationslager\affärslager\obj\Debug\affärslager.dll
+c:\users\s184176\documents\visual studio 2015\Projects\Presentationslager\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager\Presentationslager\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Presentationslager\Presentationslager\affärslager\bin\Debug\affärslager.pdb
+D:\Desktop\Presentationslager\Presentationslager\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Presentationslager\Presentationslager\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Presentationslager\Presentationslager\affärslager\obj\Debug\affärslager.pdb
+C:\Users\S184176\Desktop\Presentationslager\affärslager\bin\Debug\affärslager.dll
+C:\Users\S184176\Desktop\Presentationslager\affärslager\bin\Debug\affärslager.pdb
+C:\Users\S184176\Desktop\Presentationslager\affärslager\obj\Debug\Affärslager.csprojResolveAssemblyReference.cache
+C:\Users\S184176\Desktop\Presentationslager\affärslager\obj\Debug\affärslager.dll
+C:\Users\S184176\Desktop\Presentationslager\affärslager\obj\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager3\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager3\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager3\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+C:\Users\Miriam\Desktop\Presentationslager3\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager3\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager4\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Presentationslager4\affärslager\bin\Debug\affärslager.pdb
+D:\Desktop\Presentationslager4\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Presentationslager4\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Presentationslager4\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager5\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Presentationslager5\affärslager\bin\Debug\affärslager.pdb
+D:\Desktop\Presentationslager5\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Presentationslager5\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Presentationslager5\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager6\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Presentationslager6\affärslager\bin\Debug\affärslager.pdb
+D:\Desktop\Presentationslager6\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Presentationslager6\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Presentationslager6\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager6-med inloggning\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Presentationslager6-med inloggning\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Presentationslager6-med inloggning\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager6-med inloggning\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Presentationslager6-med inloggning\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager6-med inloggning\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager6-med inloggning\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager6-med inloggning\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+C:\Users\Miriam\Desktop\Presentationslager6-med inloggning\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager6-med inloggning\affärslager\obj\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager7\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager7\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager7\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+C:\Users\Miriam\Desktop\Presentationslager7\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager7\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager10\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Presentationslager10\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Presentationslager10\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Presentationslager10\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Presentationslager10\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager10\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager10\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager10\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+C:\Users\Miriam\Desktop\Presentationslager10\affärslager\obj\Debug\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\Presentationslager10\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager10\affärslager\obj\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager11\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager11\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\Presentationslager11\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+C:\Users\Miriam\Desktop\Presentationslager11\affärslager\obj\Debug\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\Presentationslager11\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\Presentationslager11\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Lab 2 inlämning 2\Presentationslager12\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Lab 2 inlämning 2\Presentationslager12\affärslager\bin\Debug\affärslager.pdb
+D:\Desktop\Lab 2 inlämning 2\Presentationslager12\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Lab 2 inlämning 2\Presentationslager12\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Lab 2 inlämning 2\Presentationslager12\affärslager\obj\Debug\affärslager.pdb
+D:\Desktop\Lab 1 inlämning 2\Presentationslager12\affärslager\bin\Debug\affärslager.dll
+D:\Desktop\Lab 1 inlämning 2\Presentationslager12\affärslager\bin\Debug\affärslager.pdb
+D:\Desktop\Lab 1 inlämning 2\Presentationslager12\affärslager\obj\Debug\Affärslager.csprojAssemblyReference.cache
+D:\Desktop\Lab 1 inlämning 2\Presentationslager12\affärslager\obj\Debug\affärslager.dll
+D:\Desktop\Lab 1 inlämning 2\Presentationslager12\affärslager\obj\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\Affärslager.csproj.AssemblyReference.cache
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\affärslager.pdb
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\Affärslager.csproj.AssemblyReference.cache
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Documents\VSProjekt\Gamla inlämningar\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\TillGit\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\bin\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\TillGit\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\bin\Debug\affärslager.pdb
+C:\Users\Miriam\Desktop\TillGit\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\Affärslager.csproj.AssemblyReference.cache
+C:\Users\Miriam\Desktop\TillGit\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Miriam\Desktop\TillGit\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\affärslager.dll
+C:\Users\Miriam\Desktop\TillGit\Lab1Inlämning3\Lab1Inlämning3\Presentationslager13\affärslager\obj\Debug\affärslager.pdb
